@@ -11,6 +11,9 @@ This Python script uses the Matplotlib library to generate graphs for the [Colla
 
 ## Instructions
 
+(The following instructions are for Windows devices.)
+
 1. Ensure that the pre-requisite tools are installed.
 2. Clone this project onto your local machine.
-3. Double-click on the 'ThreeXPlusOne.py' file.
+3. Open Command Prompt and navigate to the project folder.
+4. Enter the following command: `py ThreeXPlusOne.py`
