@@ -16,6 +16,7 @@ print()
 
 file1 = open('Results.txt', 'w')
 
+print("\nSteps:")
 # This loop computes the Collatz function for the number until it reaches 1.
 while True:
     step_count += 1
@@ -47,5 +48,5 @@ print("Largest number =", max(x))
 # These functions plot and display the graph.
 plt.plot(x)
 plt.xlabel('Steps')
-plt.ylabel('Height (in Increments of 10)')
+plt.ylabel('Height')
 plt.show()
