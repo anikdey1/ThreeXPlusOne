@@ -5,7 +5,7 @@ This Python script uses the Matplotlib library to generate graphs for the [Colla
 
 ## Motivation
 
-I used this project to learn the basics of [Matplotlib](https://matplotlib.org/stable/tutorials/introductory/pyplot.html), [Git](https://www.youtube.com/watch?v=8JJ101D3knE), [GitHub](https://www.youtube.com/watch?v=RGOj5yH7evk), and [Markdown](https://www.markdownguide.org/cheat-sheet/).
+I used this project to learn the basics of [Pyplot](https://matplotlib.org/stable/tutorials/introductory/pyplot.html), [Git](https://www.youtube.com/watch?v=8JJ101D3knE), [GitHub](https://www.youtube.com/watch?v=RGOj5yH7evk), and [Markdown](https://www.markdownguide.org/cheat-sheet/).
 
 
 ## Pre-requisite Tools
